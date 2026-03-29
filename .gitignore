@@ -1,0 +1,11 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+.idea
+*.iml
+.DS_Store
+pastel-movies-ui/node_modules/
+pastel-movies-ui/dist/
+.env
+.env.local
